@@ -60,6 +60,12 @@ def draw():
     ellipse(c,x-600,8,14)
     ellipse(d,x-360,8,14)
     
+    ellipse(550,580,200,50)
+    ellipse(450,590,100,25)
+    ellipse(250,590,150,25)
+    ellipse(160,600,100,15)
+    ellipse(60,560,80,10)
+    
     fill(0)
     arc(400,480,175,150, 0, PI+QUARTER_PI, CHORD);
     fill(230,230,240)
